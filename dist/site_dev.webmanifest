@@ -1,5 +1,5 @@
 {
-    "name": "GozaMás",
+    "name": "GozaMás app",
     "short_name": "GozaMás",
     "description": "GozaMás: mensajería no oficial con la API de Telegram. Rápida, segura y en la nube. Úsala en móvil y PC.",
     "start_url": "./",
